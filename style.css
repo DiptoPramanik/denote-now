@@ -1,0 +1,213 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.alignment {
+    text-align: center;
+}
+
+h1 {
+    font-size: 65px;
+    font-weight: 700;
+    margin-top: 0%;
+    padding-top: 170px;
+    margin-bottom: 20px;
+    color: white;
+
+}
+
+.center {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: justify;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+
+.top-part {
+    background-image: url(images/donation15.jpg);
+    background-repeat: no-repeat;
+    height: 669px;
+    width: 100%;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+.second-headline {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    color: #121212;
+}
+
+.donate-quote {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+    color: grey;
+}
+
+.donate-tk {
+    display: flex;
+    margin-left: 280px;
+}
+
+#box-2 {
+    border: 3px solid #FF5959;
+}
+
+h4 {
+    font-size: 25px;
+    color: #0B0D17;
+}
+
+.box {
+    text-align: center;
+    width: 140px;
+    height: 110px;
+    margin-left: 20px;
+    box-shadow: 10px 20 50px whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+#special-font {
+    color: #FF5959;
+}
+
+.other-money {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 100;
+    color: gray;
+}
+
+.horizontal-bar {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.donate-card {
+    display: flex;
+    margin-left: 5%;
+}
+
+.width-set {
+    width: 28%;
+    margin-left: 1%;
+    padding: 25px 18px;
+    box-shadow: 1px 2px 50px whitesmoke;
+    border-radius: 10px;
+
+}
+
+.card-font {
+    color: gray;
+    text-align: justify;
+}
+
+#food-card {
+    background-color: #4F9DA61A;
+}
+
+#shelter-card {
+    background-color: #FF59591A;
+}
+
+#education-card {
+    background-color: #FFF4D6;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.flexible-area {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+
+.half-width img {
+    width: 90%;
+    border-radius: 10px;
+
+}
+
+.subscribe-para {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: justify;
+    margin-bottom: 30px;
+    color: gray;
+}
+
+.subscribe-area {
+    display: flex;
+    margin-left: 20%;
+    margin-left: 20%;
+}
+
+input {
+    height: 10px;
+    padding: 10px 15px;
+    margin: none;
+    font-weight: 700;
+    margin-top: 95px;
+}
+
+button {
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2px;
+    color: white;
+    margin: -2px;
+    font-weight: 700;
+    margin-top: 95px;
+}
+
+.subscribe-form {
+    background-color: #FFF4D6;
+    height: 200px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+}
+
+.footer-section {
+    background-color: #0B0D17;
+    height: 170px;
+}
+
+.footer-area {
+    padding-top: 50px;
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
